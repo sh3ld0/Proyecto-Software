@@ -1,5 +1,0 @@
-Reinicia borrando los volúmenes para que el script se aplique
-```
-docker compose down -v
-docker compose up
-```
